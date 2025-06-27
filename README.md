@@ -1,7 +1,6 @@
 # Predicting Employee Attrition Using Logistic Regression
 
 [![Python](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://www.python.org/)
-[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![Built with scikit-learn](https://img.shields.io/badge/Built%20with-scikit--learn-yellow.svg)](https://scikit-learn.org/)
 
 > **Tagline**: *People Analytics in Action: From Attrition Risk to Retention Moves*
@@ -20,11 +19,6 @@
 - [Results](#results)
 - [Key Insights](#key-insights)
 - [Next Steps](#next-steps)
-- [How to Run](#how-to-run)
-- [Dependencies](#dependencies)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ---
 
